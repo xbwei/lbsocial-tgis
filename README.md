@@ -3,7 +3,7 @@
 To cite the paper:
 > 
 
-A demo video is provided illustrating how to load the data and run the tool in ArcGIS.
+A [demo video](https://youtu.be/TSARYxwWcCE) is provided illustrating how to load the data and run the tool in ArcGIS.
 
 The SQL codes to create the demo data tables is in the demo_data_sql folder. The demo data is in the demo_data folder. The demo output is in the demo_output folder. 
 
