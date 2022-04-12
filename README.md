@@ -20,7 +20,7 @@ Load the demo data to the database:
 `FROM 'C:\demo_data.csv' DELIMITER ',' CSV HEADER;`
 
 Connect Postgresql to ArcGIS:
-Add a database connection to Postgresql in ArcGIS
+- Add a database connection to Postgresql in ArcGIS
 
 Please install the required python packages before run the tool:
 - pysal
