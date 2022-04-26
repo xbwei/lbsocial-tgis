@@ -3,12 +3,23 @@
 
 cff-version: 1.2.0
 title: >-
-  A GIS tool and demo dataset for analyzing
-  location‐based social media activities
-message: if you use
+  A GIS tool and demo dataset for analyzing location‐based social media activities
+message: 'If you use this software, please cite it as below.'
 type: software
 authors:
-  - given-names: xue webi
+  - given-names: Xuebin
+    family-names: Wei
+    orcid: 'https://orcid.org/0000-0003-2197-5184'
+  - given-names: Xiaobai
+    family-names: Yao
+    orcid: 'https://orcid.org/0000-0003-2719-2017'
 identifiers:
   - type: url
     value: 'https://github.com/xbwei/lbsocial-tgis'
+repository-code: 'https://github.com/xbwei/lbsocial-tgis'
+keywords:
+  - GIS
+  - Social Media
+license: MIT
+version: '1.0'
+date-released: '2022-04-10'
