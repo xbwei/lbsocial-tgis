@@ -1,14 +1,14 @@
-cff-version: 1
-message: "If you use the dataset and demo tools, please cite it as below."
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  A GIS tool and demo dataset for analyzing
+  location‐based social media activities
+message: if you use
+type: software
 authors:
-- family-names: "Xuebin"
-  given-names: "Wei"
-  orcid: "https://orcid.org/0000-0003-2197-5184"
-- family-names: "Xiaobai"
-  given-names: "Yao"
-  orcid: "https://orcid.org/0000-0003-2719-2017"
-title: "A GIS representation framework for location‐based social media activities"
-version: 1
-doi: 
-date-released: 2022-4-10
-url: "https://github.com/xbwei/lbsocial-tgis"
+  - given-names: xue webi
+identifiers:
+  - type: url
+    value: 'https://github.com/xbwei/lbsocial-tgis'
