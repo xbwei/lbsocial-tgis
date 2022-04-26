@@ -1,4 +1,4 @@
-# A GIS representation framework for location‐based social media activities
+# A GIS tool and demo dataset for analyzing location‐based social media activities
 
 To cite the paper:
 > Wei, X., & Yao,X.(2022). A GIS representation framework for location‐based social media activities. Transactions in GIS, 00, 1-22.https://doi.org/10.1111/tgis.12929
